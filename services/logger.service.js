@@ -36,7 +36,6 @@ function doLog(level, ...args) {
 
 module.exports = {
     debug(...args) {
-        if (process.env.NODE_NEV === 'production') return
         doLog('DEBUG', ...args)
     },
     info(...args) {
@@ -47,5 +46,8 @@ module.exports = {
     },
     error(...args) {
         doLog('ERROR', ...args)
+    },
+    log(...args) {
+        doLog('LOG', ...args)
     }
 }
