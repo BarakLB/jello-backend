@@ -1,0 +1,181 @@
+28/01/2022, 14:17:04 - INFO - Server is running on port: 3030 
+28/01/2022, 14:18:28 - DEBUG - auth.service - signup with username: EladAyal, fullname: Elad ayal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 14:18:28 - DEBUG - auth.route - new account created: {"username":"EladAyal","password":"$2b$10$8jGIEI.cUu5..07xwEvFGuwo8bX.KFaSfIiOGBn4JlVkMv8V9aRFm","fullname":"Elad ayal","_id":"61f3df1452f6500b3fdb63b5"} (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 14:18:28 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 14:19:21 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 14:42:08 - DEBUG - auth.service - login with username: eladayal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 14:42:08 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 14:49:37 - DEBUG - auth.service - login with username: asdasdasdad (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 14:49:37 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 14:57:31 - DEBUG - auth.service - login with username: asdasdasd (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 14:57:31 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 14:58:25 - DEBUG - auth.service - login with username: lolis (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 14:58:25 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:00:34 - DEBUG - auth.service - login with username: fghfghfghfgh (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:00:34 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:02:47 - DEBUG - auth.service - login with username: fghfghfghfgh (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:02:47 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:03:21 - DEBUG - auth.service - login with username: dfgdfdfg (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:03:21 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:09:50 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:11:57 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:13:58 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:28:52 - DEBUG - auth.service - login with username: hgfdfghhgf (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:28:52 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:29:44 - DEBUG - auth.service - login with username: adsasdads (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:29:44 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:31:27 - DEBUG - auth.service - login with username: asdasdasdasd (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:31:27 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:32:02 - DEBUG - auth.service - signup with username: bar, fullname: Barak (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:32:02 - DEBUG - auth.route - new account created: {"username":"bar","password":"$2b$10$X1lGo7XBh3rSVkXYO4nS7endbRlwDI1l9JFZAk.Z6vE4z8ckdLuBy","fullname":"Barak","_id":"61f3f05252f6500b3fdb63b6"} (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:32:02 - DEBUG - auth.service - login with username: bar (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:32:49 - DEBUG - auth.service - signup with username: barak, fullname: Barak s (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:32:49 - DEBUG - auth.route - new account created: {"username":"barak","password":"$2b$10$XFFANxFfw9O8k88Wc/0r2eqmWxRLfqhznhx69r8yjQks6ZyAjmVPi","fullname":"Barak s","_id":"61f3f08152f6500b3fdb63b7"} (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:32:49 - DEBUG - auth.service - login with username: barak (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:34:08 - DEBUG - auth.service - login with username: barak (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:34:55 - DEBUG - auth.service - login with username: asdasd (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:34:55 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:35:03 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:37:57 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:38:53 - DEBUG - auth.service - login with username: fsdfsdf (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:38:53 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:44:40 - DEBUG - auth.service - signup with username: dani, fullname: Daniel B (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:44:40 - DEBUG - auth.route - new account created: {"username":"dani","password":"$2b$10$QqkLSdpx7wkD9WpeXjFlxefg4/VmRXRRFc70p70k0eg9TUFf6hslC","fullname":"Daniel B","_id":"61f3f34852f6500b3fdb63b8"} (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:44:40 - DEBUG - auth.service - login with username: dani (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:47:43 - DEBUG - auth.service - signup with username: elad, fullname: dani b (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:47:43 - DEBUG - auth.route - new account created: {"username":"elad","password":"$2b$10$4M5SK5Ru05OZROTDy9SpfeKa2J5SKQwNS69g8OVFP5vBU4j0xhZaO","fullname":"dani b","_id":"61f3f3ff52f6500b3fdb63b9"} (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:47:43 - DEBUG - auth.service - login with username: elad (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 15:50:03 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:04:02 - DEBUG - auth.service - signup with username: elad, fullname: elad (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:04:02 - ERROR - Failed to signup Username already taken (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:04:26 - DEBUG - auth.service - signup with username: Eladko, fullname: eladko (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:04:26 - DEBUG - auth.route - new account created: {"username":"Eladko","password":"$2b$10$sx83XNmxh36QTTjcc.oVCOzBPVXbSxX13sPruEXXx.lZycsWMDuDO","fullname":"eladko","_id":"61f3f7ea52f6500b3fdb63ba"} (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:04:26 - DEBUG - auth.service - login with username: Eladko (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:05:54 - DEBUG - auth.service - login with username: Eladiasdasd (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:05:54 - ERROR - Failed to Login Invalid username or password (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:06:02 - DEBUG - auth.service - signup with username: Eladiasdasd, fullname: qweqweqw123 (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:06:02 - DEBUG - auth.route - new account created: {"username":"Eladiasdasd","password":"$2b$10$1Qh7CaP5XalhDiLLbAv4H.uFjxsAtWGLRfQc6HgblXKsgGlFUamCu","fullname":"qweqweqw123","_id":"61f3f84a52f6500b3fdb63bb"} (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:06:02 - DEBUG - auth.service - login with username: Eladiasdasd (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:09:04 - DEBUG - auth.service - signup with username: Barakifrf, fullname: Barakiasd (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:09:04 - DEBUG - auth.route - new account created: {"username":"Barakifrf","password":"$2b$10$y4s.Kc9jbVYYrR3gZphTvuMecgK1gkoNjWFVbYwD7zplFZ5XuMSgm","fullname":"Barakiasd","_id":"61f3f90052f6500b3fdb63bc"} (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:09:04 - DEBUG - auth.service - login with username: Barakifrf (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:09:41 - DEBUG - auth.service - login with username: Barakifrf (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:14:07 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:34:50 - DEBUG - auth.service - signup with username: Guest, fullname: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:34:50 - DEBUG - auth.route - new account created: {"username":"Guest","password":"$2b$10$k6r6A1Gy.FzCooJ5sQuIve9eAB0YcTTDPNl4XqQIXU3sZXXRRlXsK","fullname":"Guest","_id":"61f3ff0a52f6500b3fdb63bd"} (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:34:50 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:37:59 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:40:14 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:41:00 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:41:05 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:41:16 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:41:23 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:46:28 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:46:40 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:56:41 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:57:14 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:57:56 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 16:58:13 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 17:01:38 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 17:22:43 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 20:08:17 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 20:10:08 - DEBUG - auth.service - signup with username: pop, fullname: loli popo (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 20:10:08 - DEBUG - auth.route - new account created: {"username":"pop","password":"$2b$10$K./D.Dc.cOqp0Gw2ds7bFOi5atL1AI6ozT.3zEfynhLzTo9Y9xXBu","fullname":"loli popo","_id":"61f4318052f6500b3fdb63be"} (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 20:10:08 - DEBUG - auth.service - login with username: pop (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 21:46:22 - DEBUG - auth.service - login with username: EladAyal (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 21:51:25 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 21:53:37 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 21:55:02 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 22:11:17 - DEBUG - auth.service - login with username: Guest (sid: T8HYC8GxPZSMHio-KSJGdhgHqylRMXhl)
+28/01/2022, 22:54:43 - INFO - Server is running on port: 3030 
+29/01/2022, 0:50:07 - INFO - Server is running on port: 3030 
+29/01/2022, 0:50:24 - DEBUG - auth.service - login with username: Guest (sid: fSTQfXfTyjenLASw4SdpovY8JYozPkmZ)
+29/01/2022, 13:11:53 - INFO - Server is running on port: 3030 
+29/01/2022, 13:12:35 - DEBUG - auth.service - login with username: Guest (sid: ZMpvlitu2hMtld3PwuUWcn9YCeTG0LKa)
+29/01/2022, 14:42:22 - DEBUG - auth.service - login with username: Guest (sid: ZMpvlitu2hMtld3PwuUWcn9YCeTG0LKa)
+29/01/2022, 14:49:35 - INFO - Server is running on port: 3030 
+29/01/2022, 14:51:13 - INFO - Server is running on port: 3030 
+29/01/2022, 14:51:53 - DEBUG - auth.service - login with username: EladAyal (sid: WeHAUqpmaf42GO3K5-2I2I1257wRlJTF)
+29/01/2022, 14:51:58 - DEBUG - auth.service - login with username: Guest (sid: 4c67vviyCleQYjRAntnaG8UiUOkE00VH)
+29/01/2022, 15:36:25 - DEBUG - auth.service - login with username: Guest (sid: _0Ru74VzrxLM-GBLlHPKXHtfbtti2bcV)
+29/01/2022, 16:25:01 - DEBUG - auth.service - login with username: Guest (sid: FmM_FkV_eXufRUz184esYt8vVW9pfZOT)
+29/01/2022, 16:29:53 - DEBUG - auth.service - login with username: Guest (sid: FmM_FkV_eXufRUz184esYt8vVW9pfZOT)
+29/01/2022, 16:30:02 - DEBUG - auth.service - login with username: Guest (sid: 4c67vviyCleQYjRAntnaG8UiUOkE00VH)
+29/01/2022, 16:46:52 - INFO - Server is running on port: 3030 
+29/01/2022, 17:00:40 - INFO - Server is running on port: 3030 
+3/10/2023, 6:14:55 PM - INFO - Server is running on port: 3030 
+3/10/2023, 8:47:32 PM - ERROR - Cannot find boards | ReferenceError: logger is not defined (sid: Pdy6TNy7k3dfakQaWJWO0vv4Sq6fCj-t)
+3/10/2023, 8:47:32 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: Pdy6TNy7k3dfakQaWJWO0vv4Sq6fCj-t)
+3/10/2023, 8:48:20 PM - ERROR - Cannot find boards | ReferenceError: logger is not defined (sid: Pdy6TNy7k3dfakQaWJWO0vv4Sq6fCj-t)
+3/10/2023, 8:48:20 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: Pdy6TNy7k3dfakQaWJWO0vv4Sq6fCj-t)
+3/10/2023, 8:57:21 PM - INFO - Server is running on port: 3030 
+3/10/2023, 8:57:57 PM - ERROR - Cannot find boards | ReferenceError: logger is not defined (sid: P4vml0eHWih-XbvPbKLTVp7PAGooLrsl)
+3/10/2023, 8:57:57 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: P4vml0eHWih-XbvPbKLTVp7PAGooLrsl)
+3/10/2023, 9:03:35 PM - INFO - Server is running on port: 3030 
+3/10/2023, 9:05:25 PM - INFO - Server is running on port: 3030 
+3/12/2023, 8:27:29 PM - INFO - Server is running on port: 3030 
+3/12/2023, 8:27:55 PM - INFO - Server is running on port: 3030 
+3/12/2023, 8:27:57 PM - INFO - Server is running on port: 3030 
+3/12/2023, 8:54:46 PM - DEBUG - auth.service - login with username: Guest (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 8:54:57 PM - DEBUG - auth.service - login with username: barak (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 8:55:09 PM - DEBUG - auth.service - login with username: barak (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 8:55:10 PM - DEBUG - auth.service - login with username: barak (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 8:55:16 PM - ERROR - while finding user Guest | ReferenceError: logger is not defined (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 8:55:16 PM - ERROR - Failed to Login ReferenceError: logger is not defined (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 8:55:27 PM - ERROR - while finding user barak | ReferenceError: logger is not defined (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 8:55:27 PM - ERROR - Failed to Login ReferenceError: logger is not defined (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 8:55:39 PM - ERROR - while finding user barak | ReferenceError: logger is not defined (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 8:55:39 PM - ERROR - Failed to Login ReferenceError: logger is not defined (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 8:55:40 PM - ERROR - while finding user barak | ReferenceError: logger is not defined (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 8:55:40 PM - ERROR - Failed to Login ReferenceError: logger is not defined (sid: MMJCnLvyS3BciOO7mJWLpy1y-p_35-hS)
+3/12/2023, 9:30:07 PM - INFO - Server is running on port: 3030 
+3/12/2023, 9:30:16 PM - INFO - Server is running on port: 3030 
+3/12/2023, 9:30:20 PM - INFO - Server is running on port: 3030 
+3/12/2023, 9:30:39 PM - ERROR - Cannot find boards | ReferenceError: logger is not defined (sid: JEPGkemdyND8mjDgIwUe-mO71ogxtqd_)
+3/12/2023, 9:30:39 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: JEPGkemdyND8mjDgIwUe-mO71ogxtqd_)
+3/12/2023, 9:31:16 PM - DEBUG - auth.service - login with username: Guest (sid: dVfSLUYDRGRJ8xJf534TMUR7VlZw89n7)
+3/12/2023, 9:31:17 PM - ERROR - while finding user Guest | ReferenceError: logger is not defined (sid: dVfSLUYDRGRJ8xJf534TMUR7VlZw89n7)
+3/12/2023, 9:31:17 PM - ERROR - Failed to Login ReferenceError: logger is not defined (sid: dVfSLUYDRGRJ8xJf534TMUR7VlZw89n7)
+3/12/2023, 9:31:17 PM - ERROR - Cannot find boards | ReferenceError: logger is not defined (sid: 2u_y2SS1ueMuqpp8uag9ZUJB7P6ZKoMB)
+3/12/2023, 9:31:17 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: 2u_y2SS1ueMuqpp8uag9ZUJB7P6ZKoMB)
+3/12/2023, 9:33:27 PM - ERROR - Cannot find boards | ReferenceError: logger is not defined (sid: JEPGkemdyND8mjDgIwUe-mO71ogxtqd_)
+3/12/2023, 9:33:27 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: JEPGkemdyND8mjDgIwUe-mO71ogxtqd_)
+3/12/2023, 9:35:33 PM - INFO - Server is running on port: 3030 
+3/12/2023, 9:35:36 PM - INFO - Server is running on port: 3030 
+3/12/2023, 9:35:47 PM - ERROR - Cannot find boards | ReferenceError: logger is not defined (sid: jCREtttRJMybkph979GV2h7ViePIicAI)
+3/12/2023, 9:35:47 PM - ERROR - Failed to get boards | ReferenceError: logger is not defined (sid: jCREtttRJMybkph979GV2h7ViePIicAI)
+3/12/2023, 9:35:59 PM - INFO - Server is running on port: 3030 
+3/12/2023, 9:36:02 PM - INFO - Server is running on port: 3030 
+3/12/2023, 9:36:45 PM - DEBUG - auth.service - login with username: Guest (sid: agd7tC-f1RP6TUKaesj4vBHXHL5URlh3)
+3/12/2023, 11:04:45 PM - INFO - Server is running on port: 3030 
+3/12/2023, 11:05:01 PM - INFO - Server is running on port: 3030 
+3/12/2023, 11:05:17 PM - INFO - Server is running on port: 3030 
+3/12/2023, 11:05:22 PM - INFO - Server is running on port: 3030 
+3/12/2023, 11:06:19 PM - DEBUG - auth.service - signup with username: barak, fullname: barak  (sid: n_MglozYhHP_wkHFq389ndMsVok5KBgo)
+3/12/2023, 11:06:20 PM - DEBUG - auth.route - new account created: {"username":"barak","password":"$2b$10$1aHA0W/ViTVGuLmcFWWEiuqBSAQE4CDgASq.8GKy4jAYon1sjpsK6","fullname":"barak ","_id":"640e3ecb70e7a493a60ea809"} (sid: n_MglozYhHP_wkHFq389ndMsVok5KBgo)
+3/12/2023, 11:06:20 PM - DEBUG - auth.service - login with username: barak (sid: n_MglozYhHP_wkHFq389ndMsVok5KBgo)
+3/13/2023, 12:40:21 PM - INFO - Server is running on port: 3030 
+3/13/2023, 12:40:36 PM - DEBUG - auth.service - login with username: Guest (sid: wpdRxwB17cjWOVJ1-B9lF3HvvMg3AbNj)
+3/13/2023, 12:40:52 PM - INFO - Server is running on port: 3030 
+3/13/2023, 12:40:54 PM - INFO - Server is running on port: 3030 
+3/13/2023, 12:41:33 PM - DEBUG - auth.service - login with username: Guest (sid: HW77f5UAoVEEgx1QSBSDiOjiSgIAUW9I)
+3/13/2023, 12:42:50 PM - DEBUG - auth.service - login with username: Guest (sid: QxOPVGC3lRk0BZICNHkFI5J1-fciogHk)
+3/15/2023, 3:56:08 PM - INFO - Server is running on port: 3030 
+3/15/2023, 3:56:26 PM - DEBUG - auth.service - login with username: Guest (sid: pkV4o6XLeWjrnCngqjMd7256g-W1FQFX)
+8/18/2023, 9:53:44 AM - INFO - Server is running on port: 3030 
+8/18/2023, 9:54:03 AM - DEBUG - auth.service - login with username: Guest (sid: 9tDnXKNxpfqID_YQx9u6_sSTqzd1crHs)
+8/18/2023, 10:35:47 AM - INFO - Server is running on port: 3030 
+8/18/2023, 10:37:37 AM - INFO - Server is running on port: 3030 
+8/18/2023, 10:37:38 AM - INFO - Server is running on port: 3030 
+8/18/2023, 10:38:38 AM - INFO - Server is running on port: 3030 
+8/18/2023, 11:02:43 AM - INFO - Server is running on port: 3030 
+8/18/2023, 11:02:55 AM - INFO - Server is running on port: 3030 
+8/18/2023, 11:02:56 AM - INFO - Server is running on port: 3030 
+8/18/2023, 11:03:24 AM - INFO - Server is running on port: 3030 
+8/18/2023, 11:03:47 AM - INFO - Server is running on port: 3030 
+8/18/2023, 11:04:00 AM - INFO - Server is running on port: 3030 
+8/18/2023, 11:04:04 AM - INFO - Server is running on port: 3030 
+8/18/2023, 11:04:13 AM - INFO - Server is running on port: 3030 
+8/18/2023, 11:04:13 AM - INFO - Server is running on port: 3030 
+8/18/2023, 11:49:55 AM - INFO - Server is running on port: 3030 
+8/18/2023, 11:50:08 AM - INFO - Server is running on port: 3030 
